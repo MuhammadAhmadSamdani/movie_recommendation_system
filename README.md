@@ -65,7 +65,3 @@ pytest -q
 
 **License**
 - Add a license file if you want to open-source this project.
-
----
-
-If you want, I can translate the README fully to Urdu, add badges, or tailor the run instructions to the exact entrypoint—batayein kya chahiye.
