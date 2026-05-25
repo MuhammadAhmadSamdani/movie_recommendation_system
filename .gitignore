@@ -1,0 +1,47 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Build files
+build/
+dist/
+*.egg-info/
+
+# Logs
+*.log
+
+# Dataset files
+data/
+datasets/
+
+# Model files
+models/
+*.h5
+*.pkl
+*.joblib
+*.pt
+
+# ML experiment tracking
+mlruns/
+
+# OS files
+.DS_Store
+Thumbs.db
